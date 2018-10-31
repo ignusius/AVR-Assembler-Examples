@@ -1,5 +1,5 @@
 
-AVRASM ver. 2.2.6  C:\Users\User\Documents\Atmel Studio\7.0\AssemblerApplication1\AssemblerApplication1\main.asm Wed Oct 31 15:04:21 2018
+AVRASM ver. 2.2.6  C:\Users\User\Documents\Atmel Studio\7.0\AssemblerApplication1\AssemblerApplication1\main.asm Wed Oct 31 15:09:47 2018
 
 
 EQU  SIGNATURE_000 0000001e
@@ -695,6 +695,7 @@ EQU  ACIaddr      0000002e
 EQU  TWIaddr      00000030
 EQU  SPMRaddr     00000032
 EQU  INT_VECTORS_SIZE 00000034
+DEF  temp         r16
 DEF  delay1       r17
 DEF  delay2       r18
 DEF  delay3       r19

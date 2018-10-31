@@ -22,9 +22,9 @@
   <FILE>AssemblerApplication1.lss</FILE>
  </OUTPUT_FILES>
  <LABELS>
-  <Reset><FILE>C:\Users\User\Documents\Atmel Studio\7.0\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>19</LINE></Reset>
-  <start><FILE>C:\Users\User\Documents\Atmel Studio\7.0\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>42</LINE></start>
-  <delay><FILE>C:\Users\User\Documents\Atmel Studio\7.0\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>30</LINE></delay>
-  <PDelay><FILE>C:\Users\User\Documents\Atmel Studio\7.0\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>34</LINE></PDelay>
+  <Reset><FILE>C:\Users\User\Documents\Atmel Studio\7.0\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>18</LINE></Reset>
+  <start><FILE>C:\Users\User\Documents\Atmel Studio\7.0\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>41</LINE></start>
+  <delay><FILE>C:\Users\User\Documents\Atmel Studio\7.0\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>29</LINE></delay>
+  <PDelay><FILE>C:\Users\User\Documents\Atmel Studio\7.0\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>33</LINE></PDelay>
  </LABELS>
 </ASSEMBLER_INFO>
